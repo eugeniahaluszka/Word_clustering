@@ -46,9 +46,9 @@ En este punto se realiza:
 
 **Resultados**
 
-    Los resultados obtenidos para el diccionario que contiene palabras de contexto (ventana de palabras 1, der e izq) y triplas se observó que en el gráfico los valores se encontraban muy dispersos sin identificar a simple vista ningún cluster.
+   Los resultados obtenidos para el diccionario que contiene palabras de contexto (ventana de palabras 1, der e izq) y triplas se observó que en el gráfico los valores se encontraban muy dispersos sin identificar a simple vista ningún cluster.
     
-    Dentro de los 45 clústers se observó:
+   Dentro de los 45 clústers se observó:
 
 
 Clúster: *Stopwords*
